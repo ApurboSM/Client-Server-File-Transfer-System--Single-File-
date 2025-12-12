@@ -1,4 +1,4 @@
-# Task 5: Client-Server File Transfer System
+# Client-Server File Transfer System
 
 ## Overview
 A robust file transfer system that allows clients to upload files to a server with integrity verification using checksums.
